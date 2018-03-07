@@ -1,0 +1,13 @@
+﻿  Problem5.cpp
+c:\users\bevan\source\repos\problem5.cpp(6): error C2143: syntax error: missing ';' before '<class-head>'
+c:\users\bevan\source\repos\problem5.cpp(16): error C2061: syntax error: identifier 'out_of_range_exception'
+c:\users\bevan\source\repos\problem5.cpp(18): error C2061: syntax error: identifier 'out_of_range_exception'
+c:\users\bevan\source\repos\problem5.cpp(20): error C2061: syntax error: identifier 'out_of_range_exception'
+c:\users\bevan\source\repos\problem5.cpp(23): error C2661: 'invalid_triangle_exception::invalid_triangle_exception': no overloaded function takes 3 arguments
+c:\users\bevan\source\repos\problem5.cpp(25): error C2661: 'invalid_triangle_exception::invalid_triangle_exception': no overloaded function takes 3 arguments
+c:\users\bevan\source\repos\problem5.cpp(27): error C2661: 'invalid_triangle_exception::invalid_triangle_exception': no overloaded function takes 3 arguments
+c:\users\bevan\source\repos\problem5.cpp(67): error C2061: syntax error: identifier 'myexception'
+c:\users\bevan\source\repos\problem5.cpp(67): error C2310: catch handlers must specify one type
+c:\users\bevan\source\repos\problem5.cpp(69): error C2065: 'ex': undeclared identifier
+c:\users\bevan\source\repos\problem5.cpp(69): error C2227: left of '->get_message' must point to class/struct/union/generic type
+  c:\users\bevan\source\repos\problem5.cpp(69): note: type is 'unknown-type'
